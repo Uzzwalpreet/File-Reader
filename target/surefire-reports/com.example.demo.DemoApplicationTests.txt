@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.example.demo.DemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.125 s <<< FAILURE! - in com.example.demo.DemoApplicationTests
+com.example.demo.DemoApplicationTests  Time elapsed: 0.124 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "java.lang.Class.getName()" because "found" is null
+
